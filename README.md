@@ -81,7 +81,7 @@ rebel-foods-dashboard/
 
 Installation and Setup
 Step 1 — Clone the repository
-bashgit clone https://github.com/rudrakshmala/rebel-foods-dashboard.git
+bashgit clone https://github.com/rudrakshmala/foods-.git
 cd rebel-foods-dashboard
 Step 2 — Install dependencies
 bashpip install -r requirements.txt
