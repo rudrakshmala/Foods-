@@ -21,6 +21,12 @@ North zone needs attention — lowest avg EBITDA% at 16.01%
 
 Dashboards
 Dashboard 1 — Kitchen Level PNL
+<img width="1830" height="878" alt="image" src="https://github.com/user-attachments/assets/d5c8e867-ca4e-4892-adb5-af13ec0c25cb" />
+<img width="1876" height="895" alt="image" src="https://github.com/user-attachments/assets/6edf462a-8cf8-4074-91d2-f7531bbaea4c" />
+<img width="1871" height="889" alt="image" src="https://github.com/user-attachments/assets/84737afd-5bf0-4264-87eb-9a7cb630212e" />
+
+
+
 A fully filterable table showing per-kitchen Profit and Loss across months.
 Filters available:
 
@@ -41,6 +47,11 @@ Store Revenue vs Avg EBITDA% — bubble scatter plot
 
 
 Dashboard 2 — Variance Level PNL
+<img width="1851" height="870" alt="image" src="https://github.com/user-attachments/assets/c5a14127-1ebb-409c-8118-11460ae82989" />
+<img width="1816" height="883" alt="image" src="https://github.com/user-attachments/assets/59305073-2e9f-4596-b515-506baf653ae2" />
+<img width="1880" height="878" alt="image" src="https://github.com/user-attachments/assets/597afa9c-087d-4b53-94b0-4aaca93cfcc6" />
+
+
 Variance represents food material wastage as a percentage of revenue.
 Filter:
 
